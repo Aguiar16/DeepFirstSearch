@@ -1,0 +1,20 @@
+Arquivo: conexo7.txt
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Caminhamento pelo grafo:
+
+1~>2  |  2~>3  |  3~>6  |  6~>4  |  4~>7  |  7~>5  |  5~>X  |  5<~7  |  7~>X  |  7<~4  |  4~>X  |  4<~6  |  6~>X  |  6<~3  |  3~>X  |  3<~2  |  2~>X  |  2<~1  |  1~>X  |  
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Número de vértices: 7
+Número de arestas: 14
+Número de vértices visitados: 7
+O grafo é conexo!
+Custo total da árvore: 78
+Tempo de execução: 0.022088 Milissegundos
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Resultados salvos em: modules/Resultados/conexo7_out.txt

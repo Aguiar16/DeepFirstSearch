@@ -1,0 +1,20 @@
+Arquivo: desconexo.txt
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Caminhamento pelo grafo:
+
+1~>6  |  6~>X  |  6<~1  |  1~>X  |  
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Número de vértices: 6
+Número de arestas: 2
+Número de vértices visitados: 2
+O grafo é desconexo!
+Custo total da árvore: 2
+Tempo de execução: 0.01135 Milissegundos
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Resultados salvos em: modules/Resultados/desconexo_out.txt

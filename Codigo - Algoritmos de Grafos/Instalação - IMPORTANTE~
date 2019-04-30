@@ -1,0 +1,5 @@
+~~-> Instalação do programa <-~~
+
+Na pasta onde se localiza o arquivo "main.py", copie e cole a seguinte linha de comando:
+
+g++ -std=c++11 modules/CPP/TrabGrafo.cpp -o modules/CPP/dfs && sudo pip3.5 install -r requirements.txt

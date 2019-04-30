@@ -1,0 +1,20 @@
+Arquivo: 18vertices.txt
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Caminhamento pelo grafo:
+
+1~>6  |  6~>4  |  4~>17  |  17~>5  |  5~>9  |  9~>11  |  11~>10  |  10~>16  |  16~>8  |  8~>7  |  7~>13  |  13~>2  |  2~>3  |  3~>14  |  14~>12  |  12~>X  |  12<~14  |  14~>15  |  15~>18  |  18~>X  |  18<~15  |  15~>X  |  15<~14  |  14~>X  |  14<~3  |  3~>X  |  3<~2  |  2~>X  |  2<~13  |  13~>X  |  13<~7  |  7~>X  |  7<~8  |  8~>X  |  8<~16  |  16~>X  |  16<~10  |  10~>X  |  10<~11  |  11~>X  |  11<~9  |  9~>X  |  9<~5  |  5~>X  |  5<~17  |  17~>X  |  17<~4  |  4~>X  |  4<~6  |  6~>X  |  6<~1  |  1~>X  |  
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Número de vértices: 18
+Número de arestas: 78
+Número de vértices visitados: 18
+O grafo é conexo!
+Custo total da árvore: 943
+Tempo de execução: 0.044814 Milissegundos
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Resultados salvos em: modules/Resultados/18vertices_out.txt

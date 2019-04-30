@@ -1,0 +1,20 @@
+Arquivo: random.txt
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Caminhamento pelo grafo:
+
+1~>2  |  2~>3  |  3~>4  |  4~>5  |  5~>6  |  6~>7  |  7~>8  |  8~>9  |  9~>10  |  10~>11  |  11~>X  |  11<~10  |  10~>12  |  12~>X  |  12<~10  |  10~>13  |  13~>X  |  13<~10  |  10~>14  |  14~>X  |  14<~10  |  10~>15  |  15~>X  |  15<~10  |  10~>X  |  10<~9  |  9~>X  |  9<~8  |  8~>X  |  8<~7  |  7~>X  |  7<~6  |  6~>X  |  6<~5  |  5~>X  |  5<~4  |  4~>X  |  4<~3  |  3~>X  |  3<~2  |  2~>X  |  2<~1  |  1~>X  |  
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Número de vértices: 15
+Número de arestas: 105
+Número de vértices visitados: 15
+O grafo é conexo!
+Custo total da árvore: 120
+Tempo de execução: 0.028001 Milissegundos
+
+x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x ~~~~~~~~~~~~ x
+
+Resultados salvos em: modules/Resultados/random_out.txt

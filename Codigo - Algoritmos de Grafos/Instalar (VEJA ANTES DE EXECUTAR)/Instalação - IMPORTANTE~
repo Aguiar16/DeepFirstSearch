@@ -1,0 +1,9 @@
+~~-> Instalação do programa <-~~
+
+Navegue, pelo terminal, até a pasta que contém este arquivo e execute o seguinte comando:
+
+sudo pip3.5 install -r requirements.txt
+
+É importante que tenha o c++ 11 (ou maior) instalado.
+
+** Importante: sempre execute a main.py da mesma pasta a qual ela se encontra.
